@@ -1,2 +1,2 @@
-# game-of-life-react
-Game of Life with React
+# Conway's Game of Life
+The Game of Life with React hooks!

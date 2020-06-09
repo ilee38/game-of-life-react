@@ -14,7 +14,7 @@ const Grid = props => {
 
   return(
     <div>
-      <p>I'm the grid!</p>
+      <p>I'm the grid for {props.msg}!</p>
       <canvas id="grid"
               height={500}
               width={500} />

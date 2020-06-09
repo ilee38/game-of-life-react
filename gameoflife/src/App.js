@@ -6,8 +6,8 @@ import Grid from './components/Grid/Grid'
 function App() {
   return (
     <div className="App">
-      <h1>Grid for the Game of Life</h1>
-      <Grid />
+      <h1>Conway's Game of Life</h1>
+      <Grid msg={"The Game of Life"}/>
       <button>Start</button>
 
     </div>
